@@ -86,7 +86,7 @@ li a {
 }
 
 .form-body{
-      height: 665px;
+      height: 597px;
       width: 380px;
       background-color: white;
       top: 0;
@@ -108,14 +108,22 @@ h2{
     font-weight: 10;
 }
 
+h5{
+    margin: 0;  
+    padding-bottom: 2px;
+}
+
 .learn-more-link{
     font-size: 8pt;
+    padding-bottom: 40px;   
+
 }
 
 .form-input{
     width: 330px;
     text-align: left;
-    margin-bottom: 50px;
+    margin-top:25px;
+    margin-bottom: 25px;
 }
 
 input{
