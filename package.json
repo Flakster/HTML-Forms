@@ -1,0 +1,24 @@
+{
+  "name": "html-forms",
+  "version": "1.0.0",
+  "description": "HTML Forms",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flakster/HTML-Forms.git"
+  },
+  "author": "Carlos; Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flakster/HTML-Forms/issues"
+  },
+  "homepage": "https://github.com/Flakster/HTML-Forms#readme"
+}
