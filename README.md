@@ -1,8 +1,8 @@
-HTML Forms
+# HTML Forms
 
-This project aims to be training in the way we use HTML forms to collect data from the users through the web
+### This project aims to be training in the way we use HTML forms to collect data from the users through the web
 
-our goal is to give an answer to each of these questions
+#### Our goal is to give an answer to each of these questions
 
 
 
@@ -17,8 +17,9 @@ our goal is to give an answer to each of these questions
     How do you link element selections together (e.g. check boxes) so they are nicely formatted when your server receives them?
     What should your “submit” button probably say instead of “submit”?
 
+---
 
-contributors
+# Contributors
 
 
 -   Simon Debbarma
